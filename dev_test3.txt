@@ -1,2 +1,0 @@
-This is the 3rd file tested on Dev
-Adding new line on the file
